@@ -1,4 +1,4 @@
-Test from https://github.com/alelievr/printf-unit-test. Changed it to current cursus no bonus. Use make -q
+Test from https://github.com/alelievr/printf-unit-test. Changed it to current cursus no bonus. Use make, then ./run_test -q, or ./run_test "your_specifier"
 
 # printf-unit-test
 
